@@ -1,0 +1,17 @@
+body {
+  background-color: #E7FBBE;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: #6F69AC;
+  border-width: 1px;
+  width: 10%;
+}
+
+h1 {
+  color: #6F69AC;
+  align: center;
+
+}
